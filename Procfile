@@ -1,0 +1,1 @@
+web:node ./cleint/src/server/server.js
